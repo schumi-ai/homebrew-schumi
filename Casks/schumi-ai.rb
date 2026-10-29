@@ -1,6 +1,6 @@
 cask "schumi-ai" do
-  version "0.39.0"
-  sha256 "de09637dce375ddf195865dae3db45a15616bf6ace9a40abb86954d84e13332c"
+  version "0.40.0"
+  sha256 "c933d7f75a29949aa1c12ff59c71eae7d9ea8209837c2fe190e3595dfbe84c8b"
 
   url "https://schumi.pro/downloads/Schumi.ai_#{version}_universal.dmg"
   name "Schumi.ai"
